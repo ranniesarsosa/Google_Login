@@ -1,2 +1,2 @@
 # Google_Login
-My first git repository in collaboration with my girlfriend.
+My first git repository in collaboration with Edralene Balase.
